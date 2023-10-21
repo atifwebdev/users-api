@@ -1,3 +1,4 @@
+// JS
 const usersContainer = document.querySelector('#users');
 const postsContainer = document.querySelector('#myPostData');
 const commentsContainer = document.querySelector('#myPostData');
